@@ -4,6 +4,7 @@ div#container {
     justify-content: space-between;
   }
 
+/* Try css grid */
 div#aboutme,
 div#achievements,
 div#contact,
@@ -13,8 +14,7 @@ div#next3 {
     padding-bottom: 10em;
     padding-right: 30px;
     padding-left: 30px;
-    max-width: 27em;
-    min-width: 27em;
+    width: 27em;
 }
 
 h1,
@@ -53,4 +53,3 @@ img {
     border-radius: 10px;
     float: left;
 }
-
